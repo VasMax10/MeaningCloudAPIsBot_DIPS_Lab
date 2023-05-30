@@ -1,7 +1,7 @@
 import os
 import requests
 
-api_key = 'a642e8bca1e2c6137da99b3706b5d96e'
+api_key = 'API-KEY'
 
 def language_identification(text):
     url = "https://api.meaningcloud.com/lang-4.0/identification"
